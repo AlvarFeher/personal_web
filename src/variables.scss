@@ -1,0 +1,7 @@
+$divider-thickness: 8px;
+$divider-border-opacity: 100%;
+
+v-divider {
+  border-top-width: $divider-thickness;
+  border-opacity: $divider-border-opacity;
+}
